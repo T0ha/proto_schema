@@ -22,7 +22,7 @@ defmodule ProtoSchema.MixProject do
   defp deps do
     [
       {:ecto_sql, "~> 3.6"},
-      {:protobuf, "~> 0.10.0"}
+      {:protobuf, "~> 0.10"}
     ]
   end
 end
